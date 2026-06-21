@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# GitHub
+.github
+
+# IDE files
+.idea
+.vscode
+*.iml
+.classpath
+.project
+.settings
+
+# Build output
+target
+build
+out
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle
+
+# Logs
+*.log
+logs
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Documentation
+README.md
+LICENSE.txt
+
+# Docker files (optional)
+docker-compose.yml
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Test reports
+surefire-reports
+failsafe-reports
+
+# Coverage reports
+coverage
+jacoco.exec
