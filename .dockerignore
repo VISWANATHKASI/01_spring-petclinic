@@ -2,6 +2,9 @@
 .git
 .gitignore
 .gitattributes
+.devcontainer
+gradle
+k8s
 
 # GitHub
 .github
